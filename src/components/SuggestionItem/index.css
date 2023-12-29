@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.arrow {
+  height: 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.para {
+  font-family: roboto;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}
